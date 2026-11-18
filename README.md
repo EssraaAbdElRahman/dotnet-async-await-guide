@@ -55,7 +55,7 @@ You can also view the PDF directly from this repository.
 
 I'm a .NET Developer interested in building reliable backend solutions and continuously improving my software engineering skills.
 
-**LinkedIn:** [Connect with me]([YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/essraa-abdelrahman/))
+**LinkedIn:** [[essraa-abdelrahman](https://www.linkedin.com/in/essraa-abdelrahman/)]
 
 ---
 
